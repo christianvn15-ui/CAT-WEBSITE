@@ -1,0 +1,24 @@
+header h1 {
+  margin: 20px 10px;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+section {
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 800px;
+  border-bottom: 2px solid rgba(0, 240, 108, 0.842);
+  background: white;
+}
+
+h2 {
+  color: rgba(0, 240, 108, 0.842);
+  font-weight: 500;
+  margin-bottom: 10px;
+  border-bottom: 2px solid rgba(0, 240, 108, 0.842);
+}
+
+text color: 
+rgb(5, 143, 143)
+
